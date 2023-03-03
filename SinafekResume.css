@@ -1,0 +1,50 @@
+th {
+  text-align: left;
+}
+
+tr{
+  colspan="2"
+}
+
+table, th, td{
+  border-collapse: collapse;
+}
+
+table{
+  width: 100%;
+}
+
+
+th, td{
+  vertical-align: top;
+  height:30px;
+  border: 15px solid transparent;
+}
+
+body {
+  border-style: solid;
+  border-width: 45px;
+  border-color: transparent;
+}
+
+
+caption {
+  font-size: large;
+  text-align: left;
+  border-style: none none solid none;
+  border-width: 6px;
+  border-color: black;
+}
+
+h1{
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h2{
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  text-align: center;
+}
